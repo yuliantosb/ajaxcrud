@@ -2,9 +2,9 @@
 Interactive CRUD With AJAX and JQuery
 #Usage
 1. Create the database
-<code>CREATE DATABASE `ajaxcrud`</code>
+<pre>CREATE DATABASE `ajaxcrud`</pre>
 2. Create the table
-<code>Create table `data_member` (
+<pre>Create table `data_member` (
 	`id`	int auto_increment,
 	`name`	varchar(200),
 	`occupation` varchar(200),
@@ -14,5 +14,5 @@ Interactive CRUD With AJAX and JQuery
 	`address` text,
 	Primary key (`id`)
 )
-</code>
+</pre>
 enjoy the application
